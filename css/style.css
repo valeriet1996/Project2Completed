@@ -1,0 +1,97 @@
+.no-gutters {
+    margin-right: 0;
+    margin-left: 0;
+}
+.no-gutters   > .col,
+.no-gutters   > [class*="col-"] {
+      padding-right: 0;
+      padding-left: 0;
+ }
+
+ .no-gutters >.row{
+     margin:0;
+ }
+
+ .font-size-15{
+     font-size:15px;
+ }
+
+ .font-size-35{
+     font-size: 35px;
+ }
+
+ .text-color{
+     color:orchid;
+ }
+
+ .text-color-white{
+     color:white;
+ }
+
+ .text-color-purple{
+    color:purple;
+ }
+
+
+ .mainBackground{
+     min-height:500px;
+     background:url('../img/crafty.jpg') no-repeat;
+     background-size: cover;
+     background-position: center;
+     
+ }
+
+ .catalogBackground{
+    min-height:500px;
+    background:url('../img/gold.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+ }
+
+ .aboutBackground{
+    min-height:500px;
+    background:url('../img/wolf.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+    color:white;
+    
+ }
+
+ .aboutBackground h2{
+
+    color:purple;
+
+ }
+
+ .margin-top-bottom{
+     margin-top:20px;
+     margin-bottom:20px;
+ }
+
+ .margin-bottom{
+    margin-bottom:0px;
+}
+
+ .newsletter-background{
+    min-height:150px;
+    background:url('../img/crafty.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+ }
+
+ footer{
+        background-color:orchid;
+        margin-top:20px;
+        display:block;
+        position:relative;
+        padding-bottom:20px;
+ }
+
+ .padding-15{
+     padding:15px;
+ }
+
+ .vertical-line{
+     border-left:thin solid grey;
+ }
+ 
